@@ -1,2 +1,2 @@
 # Desafio-Dio
-## Reposirótio desafio dio
+## Repositório criado para Arquivos do Dio
